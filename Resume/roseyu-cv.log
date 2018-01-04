@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 NOV 2017 12:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 JAN 2018 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,13 +194,6 @@ Overfull \hbox (17.99998pt too wide) in paragraph at lines 34--40
 [][] 
  []
 
-
-Overfull \hbox (21.63123pt too wide) in paragraph at lines 109--112
-[]\OT1/cmr/bx/n/10 Rose Yu\OT1/cmr/m/n/10 , Guangyu Li, Yan Liu "Ten-sor re-gre
-s-sion meets Gaus-sian Pro-cesses', Preprint \OT1/cmr/m/it/10 arXiv:1710.11345 
-
- []
-
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -209,17 +202,17 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
  [4]
-Overfull \hbox (11.35199pt too wide) in paragraph at lines 324--325
+Overfull \hbox (11.35199pt too wide) in paragraph at lines 329--330
 []\OT1/cmr/m/n/10 Student Lo-cal Chair, ACM Con-fer-ence on Com-puter Sup-porte
 d Co-op-er-a-tive Work (CSCW), Hangzhou,
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 351.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 346.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 346.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 351.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 351.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 351.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 351.
  ) 
 Here is how much of TeX's memory you used:
  4300 strings out of 493089
@@ -228,7 +221,7 @@ Here is how much of TeX's memory you used:
  7812 multiletter control sequences out of 15000+600000
  5368 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,9n,21p,332b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,9n,21p,332b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -236,7 +229,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on roseyu-cv.pdf (5 pages, 121353 bytes).
+Output written on roseyu-cv.pdf (5 pages, 121724 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
