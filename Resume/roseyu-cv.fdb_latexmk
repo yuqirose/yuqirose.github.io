@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1535053093 "roseyu-cv.tex" "roseyu-cv.pdf" "roseyu-cv" 1535053094
+["pdflatex"] 1537314328 "roseyu-cv.tex" "roseyu-cv.pdf" "roseyu-cv" 1537314329
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -37,7 +37,7 @@
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
   "res.cls" 1376360296 25109 4aaddbc00695c74cbaf6137679c86a6e ""
   "roseyu-cv.aux" 1535052052 8 a94a2480d3289e625eea47cd1b285758 ""
-  "roseyu-cv.tex" 1535053093 16358 01790de5c3cb5d0a7ba139a91b317c4e ""
+  "roseyu-cv.tex" 1537314327 16359 bf5e13c4d27f44cf5d4825215e8b025e ""
   (generated)
-  "roseyu-cv.log"
   "roseyu-cv.pdf"
+  "roseyu-cv.log"
