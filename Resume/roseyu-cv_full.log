@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  1 MAR 2019 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  1 MAR 2019 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**roseyu-cv.tex
-(./roseyu-cv.tex
+**roseyu-cv_full.tex
+(./roseyu-cv_full.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./res.cls
@@ -165,7 +165,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box26
 \enitdp@description=\count99
 )
-(./roseyu-cv.aux)
+(./roseyu-cv_full.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
@@ -219,13 +219,13 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 425.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 425.
  ) 
 Here is how much of TeX's memory you used:
- 4579 strings out of 492649
- 68878 string characters out of 6129622
+ 4585 strings out of 492649
+ 68955 string characters out of 6129622
  162079 words of memory out of 5000000
  8454 multiletter control sequences out of 15000+600000
  5368 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,9n,21p,332b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,9n,21p,337b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -233,10 +233,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on roseyu-cv.pdf (5 pages, 122136 bytes).
+Output written on roseyu-cv_full.pdf (5 pages, 123911 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 35 named destinations out of 1000 (max. 500000)
+ 102 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
+ 41 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
