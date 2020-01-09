@@ -1,0 +1,138 @@
+\documentclass[12pt]{article}
+\usepackage{listings}
+\usepackage{amsmath}
+\usepackage{subfig}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{mdwlist}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{palatino}
+\usepackage{mathrsfs}
+\usepackage{fancyhdr}
+\usepackage{paralist}
+\usepackage{todonotes}
+\usepackage{dcolumn}
+\usepackage{tikz}
+\usetikzlibrary{bayesnet}
+
+\usepackage{float} % Place figures where you ACTUALLY want it
+\usepackage{comment} % A hack to toggle sections
+\usepackage{ifthen}
+\usepackage{mdframed}
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{bbm}
+\usepackage{upquote} % Prevents backticks replacing single-quotes in verbatim
+\usepackage[strings]{underscore}
+\usepackage[colorlinks=true]{hyperref}
+\usetikzlibrary{positioning,shapes,backgrounds}
+
+\geometry{margin=1in}
+\setlength{\marginparwidth}{2.15cm}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.6\baselineskip}
+
+\rhead{}
+\lhead{}
+
+% Spacing settings.
+\titlespacing\section{0pt}{12pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\renewcommand{\baselinestretch}{1.15}
+
+% Shortcuts for commonly used operators.
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Var}{\operatorname{Var}}
+\newcommand{\Cov}{\operatorname{Cov}}
+\newcommand{\Bias}{\operatorname{Bias}}
+\DeclareMathOperator{\argmin}{arg\,min}
+\DeclareMathOperator{\argmax}{arg\,max}
+
+% Do not number subsections and below.
+\setcounter{secnumdepth}{1}
+
+% Custom format subsection.
+\titleformat*{\subsection}{\large\bfseries}
+
+% Set up the problem environment.
+\newcounter{problem}[section]
+\newenvironment{problem}[1][]
+  {\begingroup
+    \setlength{\parskip}{0em}
+    \refstepcounter{problem}\par\addvspace{1em}\textbf{Problem~\Alph{problem}\!
+    \ifthenelse{\equal{#1}{}}{}{ [#1 points]}:}
+  \endgroup}
+
+% Set up the subproblem environment.
+\newcounter{subproblem}[problem]
+\newenvironment{subproblem}[1][]
+  {\begingroup
+    \setlength{\parskip}{0em}
+    \refstepcounter{subproblem}\par\medskip\textbf{\roman{subproblem}.\!
+    \ifthenelse{\equal{#1}{}}{}{ [#1 points]:}}
+  \endgroup}
+
+% Set up the teachers and materials commands.
+\newcommand\teachers[1]
+  {\begingroup
+    \setlength{\parskip}{0em}
+    \vspace{0.3em} \textit{\hspace*{2em} TAs responsible: #1} \par
+  \endgroup}
+\newcommand\materials[1]
+  {\begingroup
+    \setlength{\parskip}{0em}
+    \textit{\hspace*{2em} Relevant materials: #1} \par \vspace{1em}
+  \endgroup}
+
+% Set up the hint environment.
+\newenvironment{hint}[1][]
+  {\begin{em}\textbf{Hint: }}
+  {\end{em}}
+
+
+
+
+% 3. Header (and Footer)
+\pagestyle{fancy} % With this command we can customize the header style.
+\fancyhf{} % This makes sure we do not have other information in our header or footer.
+\lhead{\footnotesize  CS 6140}% \lhead puts text in the top left corner. \footnotesize sets our font to a smaller size.
+%\rhead works just like \lhead (you can also use \chead)
+\rhead{\footnotesize homework 1} %<---- Fill in your lastnames.
+% Similar commands work for the footer (\lfoot, \cfoot and \rfoot).
+% We want to put our page number in the center.
+\cfoot{\footnotesize \thepage} 
+
+\begin{document}
+\thispagestyle{empty} % This command disables the header on the first page. 
+
+\begin{tabular}{p{15.5cm}} % This is a simple tabular environment to align your text nicely 
+{\large \bf CS 7140 Advanced Machine Learning} \\
+Northeastern University, Spring 2020  \\
+\hline % \hline produces horizontal lines.
+\end{tabular} % Our tabular environment ends here.
+
+\vspace*{0.3cm} % Now we want to add some vertical space in between the line and our title.
+
+\begin{center} % Everything within the center environment is centered.
+    {\Large \bf Homework 1} % <---- Don't forget to put in the right number
+    \vspace{2mm}
+    
+        % YOUR NAMES GO HERE
+    {Name: Luke Skywalker UID: 000000000}
+\end{center} 
+%
+\vspace{0.2cm}
+
+\section{Probability Review}
+\begin{problem}
+%
+\end{problem}
+\begin{solution}
+Your solution here
+\end{solution}
+
+\end{document}
