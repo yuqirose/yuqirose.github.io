@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  24 JAN 2020 10:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  31 JAN 2020 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -219,8 +219,8 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 526.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 526.
  ) 
 Here is how much of TeX's memory you used:
- 4588 strings out of 492649
- 68928 string characters out of 6129622
+ 4587 strings out of 492649
+ 68921 string characters out of 6129622
  163073 words of memory out of 5000000
  8456 multiletter control sequences out of 15000+600000
  5368 words of font info for 20 fonts, out of 8000000 for 9000
@@ -233,10 +233,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on roseyu-cv.pdf (6 pages, 127075 bytes).
+Output written on roseyu-cv.pdf (6 pages, 126878 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 44 named destinations out of 1000 (max. 500000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
+ 43 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
