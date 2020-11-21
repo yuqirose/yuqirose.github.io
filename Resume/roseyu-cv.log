@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 OCT 2020 19:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 NOV 2020 20:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -207,31 +207,36 @@ Albert-L^^Saszl^^So Barab^^Sasi, Alessan-
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
-
+Overfull \hbox (11.55925pt too wide) in paragraph at lines 342--343
+[]\OT1/cmr/m/n/10 PI, Abiomed Re-search Grant,, \OT1/cmr/m/it/10 Au-to-mated Pa
+-tient Care As-sis-tant via Ma-chine Learn-ing\OT1/cmr/m/n/10 , $299,480,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
-[4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 548--553
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
-[6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 610.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 610.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 610.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 610.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 610.
+[5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 554--559
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 616.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 616.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 616.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 616.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 616.
  ) 
 Here is how much of TeX's memory you used:
- 4646 strings out of 492616
- 69754 string characters out of 6129482
+ 4647 strings out of 492616
+ 69761 string characters out of 6129482
  165379 words of memory out of 5000000
  8540 multiletter control sequences out of 15000+600000
  5368 words of font info for 20 fonts, out of 8000000 for 9000
@@ -244,10 +249,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on roseyu-cv.pdf (7 pages, 130465 bytes).
+Output written on roseyu-cv.pdf (7 pages, 130667 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 56 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
