@@ -39,11 +39,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Home</a>
-                <a class="navbar-brand" href="#research">Research</a>
-                <a class="navbar-brand" href="#group">Group</a>
-                <a class="navbar-brand" href="#teaching">Teaching</a>
-                <a class="navbar-brand" href="./prospective.html">Join Us</a>
+                <a class="navbar-brand" href="#" style="color:#0a6ebd">Home</a>
+                <a class="navbar-brand" href= "#research" style="color:#0a6ebd" >Research</a>
+                <a class="navbar-brand" href="#group" style="color:#0a6ebd" >Group</a>
+                <a class="navbar-brand" href="#teaching" style="color:#0a6ebd" >Teaching</a>
+                <a class="navbar-brand" href="./prospective.html" style="color:#0a6ebd">Join Us</a>
         
             </div>
             <!-- /.-collapse -->
@@ -600,8 +600,8 @@ My research interests lie primarily in <a href="https://en.wikipedia.org/wiki/Ma
      <div class="bs-docs-section">
             <div class="row">
               <div class="col-lg-12">
-              <h4>  Conferences</h4> 
-
+                <a href="#conferences" data-toggle="collapse">  <h4 style="color:#0a6ebd">  Conferences</h4>  </a>
+              <div id="conferences" class="collapse">
 
               <li id="neurips2023-A">
                 <b> DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting</b></br>
@@ -947,12 +947,36 @@ My research interests lie primarily in <a href="https://en.wikipedia.org/wiki/Ma
                   </p>
               </li>
               <p style="margin-top:3px">
-
+              </div>
               </div>
             </div>
+
+
+
             <div class="row">
               <div class="col-lg-12">
-                <h4>  Journals </h4>
+                <a href="#journals" data-toggle="collapse"> <h4 style="color:#0a6ebd"> Journals</h4></a>
+                <div id="journals" class="collapse">
+
+
+                  <li id="TMLR2023">
+                    <b> Long-term Forecasting with TiDE: Time-series Dense Encoder</br></b>
+                    Abhimanyu Das, Weihao Kong, Andrew Leach, Shaan Mathur, Rajat Sen, Rose Yu </br>
+                    <em>Transactions on Machine Learning Research</em>, 2023 </br>
+                    [<a href="https://openreview.net/pdf?id=pCbC3aQB5W">Paper</a>]
+                    [<a href="https://github.com/google-research/google-research/tree/master/tide">Code</a>]
+                    [<a href="https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-forecasting">Blog</a>]
+                  </li>
+
+                  
+                <li id="NatureComm2023">
+                  <b> Accelerating network layouts using graph neural networks</br></b>
+                  Csaba Both, Nima  Dehmamy,  Rose Yu, and Albert-Laszlo Barabasi </br>
+                  <em>Nature Communications</em>, 2023 </br>
+                  [<a href="https://www.nature.com/articles/s41467-023-37189-2">Paper</a>]
+                </li>
+
+
                   <li id="Royal2020">
                     <b> Physics-informed machine learning: case studies for weather and climate modelling    </br></b>
                     K. Kashinath, M. Mustafa, A. Albert, J-L. Wu, C. Jiang, S. Esmaeilzadeh, K. Azizzadenesheli, R. Wang, A. Chattopadhyay, A. Singh, A. Manepalli, D. Chirila, R. Yu, R. Walters, 
@@ -982,19 +1006,26 @@ My research interests lie primarily in <a href="https://en.wikipedia.org/wiki/Ma
                       [<a href="Papers/tkdd2015.pdf">Paper</a>]
                   </li>
                   <p style="margin-top:3px">
+
+                  </div>
             </div>
           </div>
 
           <div class="row">
             <div class="col-lg-12">
 
-            <h4>  Technical Talks</h4>
+              <a href="#talks" data-toggle="collapse"><h4 style="color:#0a6ebd">  Technical Talks</h4></a>
+              <div id="talks" class="collapse">
+
+            <li id="iPAM">
+              <b> Incorporating Symmetry for Learning Spatiotemporal Dynamics, IPAM 2023</br></b>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/nmxYFflfUa8?si=I1rH2TxEca4lvIdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            </li>
             
-            <li id="KDD-Tutorial">
+            <!-- <li id="KDD-Tutorial">
               <b> Tutorial on Physics-Guided Deep Learning for Spatiotemporal Data </br></b>
                [<a href="https://sites.google.com/view/kdd2021tutorial/home?authuser=0">Website </a>]
                [<a href="https://sites.google.com/view/kdd2021tutorial/home?authuser=0#:~:text=at%20KDD%202021%20%20%20%5B-,Tutorial,-Slides%5D">Slides</a>]
-            </li>
+            </li> -->
 
             <li id="KITP">
               <b> Machine Learning for Climate KITP conference 2021 </br></b>
@@ -1015,11 +1046,11 @@ My research interests lie primarily in <a href="https://en.wikipedia.org/wiki/Ma
             </li>
             <li id="CI2018">
               <b> Keynote at Climate Informatics 2018 </br></b>
-          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4n692L14Ljk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        
-        </li>
+              <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4n692L14Ljk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </li>
           <!-- /.section -->
-        </div>
+            </div>
+          </div>
         </div>    
   
 
