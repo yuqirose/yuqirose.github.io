@@ -1,3 +1,44 @@
+Yuqi Rose — Personal website
+
+Based on "The Personal Page" by Naz Hamid (original: www.nazhamid.com).
+Original project: https://github.com/weightshift/The-Personal-Page
+
+Description
+This repository contains the source for my personal website, published via GitHub Pages. The site is a static HTML/CSS/JS collection using Bootstrap 4 and a small set of plugins.
+
+Contents
+- `index.html` — home page
+- `code.html` — code and projects
+- `Publication/`, `Papers/` — publications and BibTeX sources
+- `css/`, `js/`, `images/` — static assets and Bootstrap distribution
+
+Local preview
+Run a simple local server from the repository root:
+
+```bash
+python3 -m http.server 8000
+# then open http://localhost:8000 in your browser
+```
+
+Contributing
+- Edit files in this repository, commit your changes, and push to GitHub.
+
+Example:
+
+```bash
+git add README
+git commit -m "Update README"
+git push
+```
+
+Licenses and credits
+- This project includes `MIT-license.txt` and `GPL-license.txt` — consult those for licensing details.
+- The original Personal Page template and credits remain in the project; see the top-level files and comments in the HTML for attribution.
+
+Contact
+See my GitHub profile for contact information.
+
+Updated: January 2026
 =============================
 
 The Personal Page
